@@ -1,2 +1,2 @@
-# Googl redesign
+# Google Redesign
 #html css and javascript
